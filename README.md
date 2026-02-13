@@ -1,7 +1,7 @@
-# Schnief-News – Financial Analysis Platform (Technical Showcase)
+# Schnief-News – Full-Stack Financial Analysis Platform (Technical Showcase)
 
 ## Overview
-Schnief-News is a private financial analysis web platform developed for structured market analysis publishing within a closed user group.
+Schnief-News is a privately developed full-stack financial analysis platform designed for structured market publishing within a role-based access system.
 
 This repository provides a technical overview of the system architecture without exposing production source code.
 
